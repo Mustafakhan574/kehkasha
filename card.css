@@ -1,0 +1,36 @@
+body{
+   margin : 0px;
+   padding: 0px;
+  background-color: black;
+  overflow: hidden;
+}
+.card{
+    position:relative;
+    top : 350px;
+    background-color:pink;
+    overflow: hidden;
+}
+.img-fluid{
+    height:100%;
+    width : 300px;
+    overflow: hidden;
+}
+.fa-brands{
+    font-size:15px;
+    overflow: hidden;
+}
+.border{
+    border: 2px solid transparent !important;
+    overflow: hidden;
+}
+.border:hover{
+    border: 2px solid black !important;
+    overflow: hidden;
+}
+h1{
+    position : relative;
+    top : 100px;
+    background-color: aqua;
+    text-align: center;
+    overflow: hidden;
+}
